@@ -1,0 +1,2 @@
+# AzureSolution
+Обучение Azure
