@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureStorageQUIZ", "AzureSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlob", "AzureBlob\AzureBlob.csproj", "{5E772BF5-FD90-4A4C-A857-FF6FCF428677}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureStorageFile", "AzureStorageFile\AzureStorageFile.csproj", "{B746575A-4F0E-4F21-809C-175A33DAF36F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5E772BF5-FD90-4A4C-A857-FF6FCF428677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E772BF5-FD90-4A4C-A857-FF6FCF428677}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E772BF5-FD90-4A4C-A857-FF6FCF428677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B746575A-4F0E-4F21-809C-175A33DAF36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B746575A-4F0E-4F21-809C-175A33DAF36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B746575A-4F0E-4F21-809C-175A33DAF36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B746575A-4F0E-4F21-809C-175A33DAF36F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
